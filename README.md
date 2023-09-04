@@ -41,7 +41,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahalingam-g-954113193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahalingam Govintharaj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lingavsp" target="blank"><img align="center" src="https://github.com/Mahalingam-G/PROFILE/blob/main/HackerRank.png" alt="Mahalingam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lingavsp" target="blank"><img align="center" src="https://github.com/Mahalingam-G/Mahalingam-G/blob/main/HackerRank.png" alt="Mahalingam" height="30" width="40" /></a>
 </p>
 
 ###
