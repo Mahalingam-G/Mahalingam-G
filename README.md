@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Mahalingam Govintharaj from Chennai<br><br>- 🔭 Currently, I am working with Cognizant as a Sr. Developer with over 3.2 years of progressive Hands-on experience in Global Business Intelligence with SAP BI tools (SAP BO, UDT, IDT), QlikView, Power BI, Power apps, Python and power shell scripting.<br><br>- 📚 I'm currently learning SAP SAC Planning Development<br><br>-👨‍💻 All of my projects are available at https://mahalingam-g.github.io<br><br>-💬 Ask me about SAP Business Objects & SAP Analytics Cloud | Power BI & QlikView | Web Technologies | Python & PowerShell Automation<br><br>📫 How to reach me mahalingamgovintharaj@gmail.com<br><br>📄 Know about my experiences https://github.com/Mahalingam-G/Mahalingam-G.github.io/blob/main/assets/images/Mahalingam_Resume.pdf</p>
+<p align="left">I'm Mahalingam Govintharaj from Chennai<br><br>- 🔭 Currently, I am working with Cognizant as a Sr. Developer with progressive Hands-on experience in Global Business Intelligence with SAP BI tools (SAP BO, UDT, IDT), QlikView, Power BI, Power apps, Python and power shell scripting.<br><br>- 📚 I'm currently learning SAP SAC Planning Development<br><br>-👨‍💻 All of my projects are available at https://mahalingam-g.github.io<br><br>-💬 Ask me about SAP Business Objects & SAP Analytics Cloud | Power BI & QlikView | Web Technologies | Python & PowerShell Automation<br><br>📫 How to reach me mahalingamgovintharaj@gmail.com<br><br>📄 Know about my experiences https://github.com/Mahalingam-G/Mahalingam-G.github.io/blob/main/assets/images/Mahalingam_Resume.pdf</p>
 
 ###
 <h3 align="left">Connect with me:</h3>
